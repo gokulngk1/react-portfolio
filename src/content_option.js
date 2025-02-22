@@ -1,11 +1,11 @@
 const logotext = "JOHN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Gokul",
+    description: "I’m Gokul Full stack developer ",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Gokul",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -16,10 +16,11 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Short Intro About me ",
+    aboutme: " Recent Computer Science Engineering graduate (2023) seeking a position as a frontend developer. Proficient in HTML, CSS, JavaScript, and ReactJS, with a passion for creating intuitive and visually appealing web interfaces. Eager to contribute skills and learn in a collaborative environment.",
 };
-const worktimeline = [{
+const worktimeline = [
+    {
         jobtitle: "Designer of week",
         where: "YAdfi",
         date: "2020",
@@ -37,25 +38,26 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Html & css",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Java",
+        value: 75,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 90,
     },
     {
         name: "React",
-        value: 60,
+        value: 90,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Github",
+        value: 80,
     },
+    
 ];
 
 const services = [{
@@ -136,9 +138,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "gokulngkl@gmail.com",
+    YOUR_FONE: "9360332436",
+    // description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +149,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/gokulngk1",
+    // facebook: "https://facebook.com",
+    linkedin: "https://www.linkedin.com/in/gokulngkl/",
+    // twitter: "https://twitter.com",
 };
 export {
     meta,
